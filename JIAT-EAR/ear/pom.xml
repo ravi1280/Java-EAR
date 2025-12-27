@@ -38,6 +38,7 @@
             <type>war</type>
         </dependency>
     </dependencies>
+
     <build>
         <finalName>${project.name}</finalName>
         <plugins>
